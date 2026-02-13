@@ -6,11 +6,27 @@ General Philosophy:
 
 In these classes, you'll learn to create and use artificial intelligence, with a focus on mathematics, intelligence, neural networks, data, models, app pipelines, and real-world applications. We’ll dive into topics not covered in other AI courses, such as translation of linear algebra into geometric interpretation and relationship to intelligence, the importance of data preparation, and the challenges of putting AI into production. We’ll use industry standard state-of-the-art tools like GitHub, Colab, and HuggingFace, so students will be step ahead of the others. Where possible, we'll also use Vibe coding to simplify overall coding and project building.
 
-Understanding Boot Camps :
+Boot Camps :
 
 Each coot camp will be day long and held on wekends.Students can pursue optional project after the class. The goal of these projects is to build a publishable project that can help students get admission into good colleges.
 •	Sunday Boot Camp: Students will engage in theory and code with a low-code approach, tackle real-life problem-solving projects. Each boot camp will get deeper and deeper into 
 •	Optional project: Students will come up with their idea for project and form a team. The expectation is that students keep contributing to these and improve the results with each course. A team of experts will guide them through the process.
+
+Boot Camp1: Understanding language models and building apps
+Boot Camp2: Using Vibe coding to build complete language apps
+Boot Camp3: Advanced topics in language model based applications
+
+Instructors:
+
+Anand Joshi: 
+Krishula Sinha:
+Abhinandan Aneja: 
+Aakash Patil
+Jin Kim
+
+Schedule:
+
+
 
 Guest Speakers: 
 
