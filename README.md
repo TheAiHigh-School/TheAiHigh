@@ -16,18 +16,7 @@ Boot Camp1: Understanding language models and building apps
 Boot Camp2: Using Vibe coding to build complete language apps
 Boot Camp3: Advanced topics in language model based applications
 
-Instructors:
-
-Anand Joshi: 
-Krishula Sinha:
-Abhinandan Aneja: 
-Aakash Patil
-Jin Kim
 
 Schedule:
 
-
-
-Guest Speakers: 
-
-Learn from the best! Each course features an expert guest speaker from the industry, such as Meta's HR Director, Genentech's VP of Data Science, and Amazon's Director. Stay connected with these industry leaders for learning and opportunities.
+Please see attached ppt to find out dates.
