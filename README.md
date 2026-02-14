@@ -16,7 +16,43 @@ Boot Camp1: Understanding language models and building apps
 Boot Camp2: Using Vibe coding to build complete language apps
 Boot Camp3: Advanced topics in language model based applications
 
-
 Schedule:
 
-Please see attached ppt to find out dates.
+Bootcamp 1 - Understanding and building language model applications
+Feb 28, 9 AM – 3 PM
+Bootcamp 2 – Using Vibe coding to build advanced language model applications
+March 5 , 9 AM – 3 PM
+Bootcamp 3 – Advanced topics in language models and applications
+March 12, 9 AM – 3 PM
+All classes will be held at:
+6335 Jarvis Ave, Newark, CA 94560, United States
+Fees: $200/bootcamp
+Zelle to 408 623 9164
+
+Optional Project:
+
+Students must form a team and come up with an idea (we will support the ideation and feasibility)
+Up to 4 students in a team who focus on different aspects of application building
+The team will be paired with an AI expert.
+Students should set up a weekly meeting and present updates on Sunday to the instructor and the rest of the teams
+Limited to 4 teams each class
+The project will renew each class and students will continue to improve till it's publication/Github ready
+Cost: $1000/student
+
+Insructors:
+
+Anand Joshi
+Recognized expert in AI, keynote speaker in AI conferences, market analyst, chip company executive
+http://www.linkedin.com/in/anandjoshi1
+Abhinandan Aneja
+20+ years in industry, ran violet purple before 
+Krishula Sinha 
+8+ years of experience, Expert in data pipelines
+http://www.linkedin.com/in/krishulasinha
+Academic Advisors
+Jin Kim, Ex CMU Faculty
+Aakash Patil, Post-doc Stanford
+Industry guest speakers
+Atul Kulkarni, Manager Rufus, Amazon
+Tripti Kamath, VP Data Science, J&J
+
