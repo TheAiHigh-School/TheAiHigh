@@ -69,6 +69,7 @@ Jin Kim, Ex CMU Faculty
 
 Aakash Patil, Post-doc Stanford
 
+Pre-requisites
 11th grade onwards (preferred)
 Understanding of linear algebra
 Basic coding skills
@@ -82,6 +83,3 @@ Github (For storing the code/project)
 Cursor (Paid - $20 for a month – not needed for class 1)
 Cloudflare (For publishing the project – free)
 Huggingface (For AI models)
-<img width="379" height="294" alt="image" src="https://github.com/user-attachments/assets/a7ea8a2e-72ea-40ef-8378-5bfc5df3e110" />
-
-
