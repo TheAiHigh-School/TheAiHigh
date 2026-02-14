@@ -13,20 +13,27 @@ Each coot camp will be day long and held on wekends.Students can pursue optional
 •	Optional project: Students will come up with their idea for project and form a team. The expectation is that students keep contributing to these and improve the results with each course. A team of experts will guide them through the process.
 
 Boot Camp1: Understanding language models and building apps
+
 Boot Camp2: Using Vibe coding to build complete language apps
+
 Boot Camp3: Advanced topics in language model based applications
+
 
 Schedule:
 
 Bootcamp 1 - Understanding and building language model applications
 Feb 28, 9 AM – 3 PM
+
 Bootcamp 2 – Using Vibe coding to build advanced language model applications
 March 5 , 9 AM – 3 PM
+
 Bootcamp 3 – Advanced topics in language models and applications
 March 12, 9 AM – 3 PM
+
 All classes will be held at:
 6335 Jarvis Ave, Newark, CA 94560, United States
 Fees: $200/bootcamp
+
 Zelle to 408 623 9164
 
 Optional Project:
@@ -44,14 +51,19 @@ Insructors:
 Anand Joshi
 Recognized expert in AI, keynote speaker in AI conferences, market analyst, chip company executive
 http://www.linkedin.com/in/anandjoshi1
+
 Abhinandan Aneja
-20+ years in industry, ran violet purple before 
+20+ years in industry, Owner violet purple for students learning robotics 
+
 Krishula Sinha 
 8+ years of experience, Expert in data pipelines
 http://www.linkedin.com/in/krishulasinha
+
 Academic Advisors
 Jin Kim, Ex CMU Faculty
+
 Aakash Patil, Post-doc Stanford
+
 Industry guest speakers
 Atul Kulkarni, Manager Rufus, Amazon
 Tripti Kamath, VP Data Science, J&J
