@@ -39,11 +39,15 @@ Zelle to 408 623 9164
 Optional Project:
 
 Students must form a team and come up with an idea (we will support the ideation and feasibility)
+
 Up to 4 students in a team who focus on different aspects of application building
+
 The team will be paired with an AI expert.
+
 Students should set up a weekly meeting and present updates on Sunday to the instructor and the rest of the teams
-Limited to 4 teams each class
+
 The project will renew each class and students will continue to improve till it's publication/Github ready
+
 Cost: $1000/student
 
 Insructors:
@@ -60,11 +64,13 @@ Krishula Sinha
 http://www.linkedin.com/in/krishulasinha
 
 Academic Advisors
+
 Jin Kim, Ex CMU Faculty
 
 Aakash Patil, Post-doc Stanford
 
 Industry guest speakers
+
 Atul Kulkarni, Manager Rufus, Amazon
 Tripti Kamath, VP Data Science, J&J
 
