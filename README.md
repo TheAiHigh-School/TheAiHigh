@@ -69,17 +69,34 @@ Jin Kim, Ex CMU Faculty
 
 Aakash Patil, Post-doc Stanford
 
+Registration Link
+https://docs.google.com/forms/d/e/1FAIpQLSe0tTqE3KRdF_qFqN-V3JszMSK_pcSnDqXKRmi64Gs6WyQX6Q/viewform?usp=publish-editor
+
+
 Pre-requisites
+
 11th grade onwards (preferred)
+
 Understanding of linear algebra
+
 Basic coding skills
+
 Python
+
 Basic programming and debugging skills
+
 Syntactical and logical error fix
+
 Desire to build apps using AI to code
+
 Accounts Needed:
+
 Google Colab (To run Jupyter notebooks)
+
 Github (For storing the code/project)
-Cursor (Paid - $20 for a month – not needed for class 1)
+
+Cursor (Paid - $20 for a month – not needed for first bootcamp 1)
+
 Cloudflare (For publishing the project – free)
+
 Huggingface (For AI models)
