@@ -69,8 +69,3 @@ Jin Kim, Ex CMU Faculty
 
 Aakash Patil, Post-doc Stanford
 
-Industry guest speakers
-
-Atul Kulkarni, Manager Rufus, Amazon
-Tripti Kamath, VP Data Science, J&J
-
