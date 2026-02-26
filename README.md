@@ -58,11 +58,13 @@ https://www.linkedin.com/in/abhinandananeja/
 
 Krishula Sinha 
 8+ years of experience, Expert in data pipelines
+
 http://www.linkedin.com/in/krishulasinha
 
 Academic Advisors
 
 Jin Kim, Ex CMU Faculty
+
 Aakash Patil, Post-doc Stanford
 
 Registration Link
