@@ -62,30 +62,27 @@ Jin Kim, Ex CMU Faculty, Chief Data Scientist Wave Computing
 Aakash Patil, Post-doc Stanford, Founder/CEO NuGen
 
 Industry Advisors
+
 Abhi Karode, AI Apps Architect, Amazon
 Kanu Kalra, CTO, Mentor, Summer of Code Google
 
 Student Advisors
+
 Taj Singh, 1st year EECS UCBerkley (Former American High Student)
 Rucha Padhye, 2nd year EE UNC
 
 Registration Link
 https://forms.gle/ZUmAdW4ZrYntjns68
 
+
 Pre-requisites
 
 11th grade onwards (preferred)
-
 Understanding of linear algebra
-
 Basic coding skills
-
 Python
-
 Basic programming and debugging skills
-
 Syntactical and logical error fix
-
 Desire to build apps using AI to code
 
 Accounts Needed:
