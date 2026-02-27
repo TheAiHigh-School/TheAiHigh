@@ -12,22 +12,16 @@ Each coot camp will be day long and held on weekends.Students can pursue optiona
 •	Sunday Boot Camp: Students will engage in theory and code with a low-code approach, tackle real-life problem-solving projects. Each boot camp will get deeper and deeper into the theory and practical aspects.
 •	Optional project: Students will come up with their idea for project and form a team. The expectation is that students keep contributing to these and improve the results with each course. A team of experts will guide them through the process.
 
-Boot Camp1: Understanding language models and building apps
-
-Boot Camp2: Using Vibe coding to build complete language apps
-
-Boot Camp3: Advanced topics in language model based applications
-
 
 Schedule:
 
-Bootcamp 1 - Understanding and building language model applications
+Bootcamp 1 - Understanding and building language AI applications
 March 8, 10 AM – 4 PM
 
-Bootcamp 2 – Using Vibe coding to build advanced language model applications
+Bootcamp 2 – Using Vibe coding to build advanced language AI applications
 April TBD, 10 AM – 4 PM
 
-Bootcamp 3 – Advanced topics in language models and applications
+Bootcamp 3 – Advanced topics in language AI and applications
 May TBD, 10 AM – 4 PM
 
 All classes will be held at:
@@ -63,9 +57,17 @@ http://www.linkedin.com/in/krishulasinha
 
 Academic Advisors
 
-Jin Kim, Ex CMU Faculty
+Jin Kim, Ex CMU Faculty, Chief Data Scientist Wave Computing
 
-Aakash Patil, Post-doc Stanford
+Aakash Patil, Post-doc Stanford, Founder/CEO NuGen
+
+Industry Advisors
+Abhi Karode, AI Apps Architect, Amazon
+Kanu Kalra, CTO, Mentor, Summer of Code Google
+
+Student Advisors
+Taj Singh, 1st year EECS UCBerkley (Former American High Student)
+Rucha Padhye, 2nd year EE UNC
 
 Registration Link
 https://forms.gle/ZUmAdW4ZrYntjns68
