@@ -68,8 +68,7 @@ Jin Kim, Ex CMU Faculty
 Aakash Patil, Post-doc Stanford
 
 Registration Link
-https://docs.google.com/forms/d/e/1FAIpQLSe0tTqE3KRdF_qFqN-V3JszMSK_pcSnDqXKRmi64Gs6WyQX6Q/viewform?usp=publish-editor
-
+https://forms.gle/ZUmAdW4ZrYntjns68
 
 Pre-requisites
 
