@@ -78,12 +78,19 @@ https://forms.gle/ZUmAdW4ZrYntjns68
 Pre-requisites
 
 11th grade onwards (preferred)
+
 Understanding of linear algebra
+
 Basic coding skills
+
 Python
+
 Basic programming and debugging skills
+
 Syntactical and logical error fix
+
 Desire to build apps using AI to code
+
 
 Accounts Needed:
 
