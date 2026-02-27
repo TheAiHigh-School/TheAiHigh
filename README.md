@@ -16,7 +16,7 @@ Each coot camp will be day long and held on weekends.Students can pursue optiona
 Schedule:
 
 Bootcamp 1 - Understanding and building language AI applications
-March 8, 10 AM – 4 PM
+March 15, 10 AM – 4 PM
 
 Bootcamp 2 – Using Vibe coding to build advanced language AI applications
 April TBD, 10 AM – 4 PM
