@@ -16,13 +16,13 @@ Each coot camp will be day long and held on weekends.Students can pursue optiona
 Schedule:
 
 Bootcamp 1 - Understanding and building language AI applications
-March 15, 10 AM – 4 PM
+March 2026, - 10 AM - 4 PM
 
 Bootcamp 2 – Using Vibe coding to build advanced language AI applications
-April TBD, 10 AM – 4 PM
+March 2026, - 10 AM - 4 PM
 
 Bootcamp 3 – Advanced topics in language AI and applications
-May TBD, 10 AM – 4 PM
+May 2026, 10 AM – 4 PM
 
 All classes will be held at:
 6335 Jarvis Ave, Newark, CA 94560, United States
